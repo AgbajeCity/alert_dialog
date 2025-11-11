@@ -1,21 +1,17 @@
-# Flutter Demo: AlertDialog Widget
-
 **Widget:** `AlertDialog`
 
-**One-Line Description:** A modal dialog that interrupts the user with critical information or a decision.
+A modal dialog that interrupts the user with critical information or a decision.
 
----
 
-## Run Instructions
+## How to run instructions
 
 1.  Clone the repository.
 2.  Navigate to the project directory: `cd alert_dialog`
 3.  Get dependencies: `flutter pub get`
 4.  Run the app: `flutter run`
 
----
 
-## Three Attributes Demonstrated
+## Three attributes demonstrated
 
 1.  **`title`**: (Type: `Widget`) Sets the widget (usually `Text`) that appears at the top of the dialog as its main heading.
 2.  **`content`**: (Type: `Widget`) Sets the main body of the dialog, which appears below the title. This is where the detailed message goes.
